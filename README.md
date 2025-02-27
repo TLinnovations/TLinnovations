@@ -10,7 +10,7 @@ A unit in Academic Affairs pioneering faculty & student success through creativi
   [Project Link](https://github.com/TLinnovations/Canvas-Enhanced)
 
 - 📫 **How to reach us**:\
-  [tlinnovations@csuci.edu](tlinnovations@csuci.edu)
+  [tlinnovations@csuci.edu](mailto:tlinnovations@csuci.edu)
 
 - ✍️ **We regularly share insights on**:\
   [Our Blog](https://tlinnovations.cikeys.com/)
