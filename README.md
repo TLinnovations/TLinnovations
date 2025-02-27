@@ -1,5 +1,5 @@
 ## Hi 👋, We’re TLinnovations @ CSU Channel Islands
-At the heart of Academic Affairs ❤️, we empower faculty and student success by integrating cutting-edge technology 🤖 with evidence-based teaching and learning strategies 📚 to deliver transformative educational experiences 🚀.
+We empower faculty and student success by integrating cutting-edge technology 🤖 with evidence-based teaching and learning strategies 📚. Our goal is to deliver transformative educational experiences 🚀.
 
 ---
 
