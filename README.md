@@ -1,12 +1,13 @@
 ## Hi 👋, We’re TLinnovations @ CSU Channel Islands
-A unit in Academic Affairs pioneering faculty & student success through creativity and innovation.
+We’re a forward-thinking team in Academic Affairs, empowering faculty and students with innovative solutions and proven teaching and learning strategies.
 
 ---
 
 ## Work
 
 - 🏗 **Currently building**:\
-  **Canvas Enhanced**\
+
+  **Canvas Enhanced - Coming Soon!**\
   [Project Link](https://github.com/TLinnovations/Canvas-Enhanced)
 
 - 📫 **How to reach us**:\
