@@ -5,7 +5,7 @@ We’re a forward-thinking team in Academic Affairs, empowering faculty and stud
 
 ## Work
 
-- 🏗 **Currently building**:\
+- 🏗 **Currently building**:
 
   **Canvas Enhanced - Coming Soon!**\
   [Project Link](https://github.com/TLinnovations/Canvas-Enhanced)
