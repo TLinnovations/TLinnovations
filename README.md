@@ -10,6 +10,9 @@ We empower faculty and student success by integrating cutting-edge technology ðŸ
   **Canvas Enhanced - Coming Soon!**\
   [Project Link](https://github.com/TLinnovations/Canvas-Enhanced)
 
+  **CSU QLT Rubric | Course Design Checklist**\
+  [Project Link](https://github.com/TLinnovations/csu-qlt-checklist) 
+
 - ðŸ“« **How to reach us**:\
   [tlinnovations@csuci.edu](mailto:tlinnovations@csuci.edu)
 
